@@ -1,3 +1,7 @@
+spring:
+  application:
+    name: demomvp
 server:
   port: '8082'
 name: arpit
+  
